@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+// importation du style global
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.dotted {
+  border: 2px dashed #e47e7e;
+  padding: 3em 6em;
+  background-color: transparent;
+  margin-top: 12px;
+  border-radius: 8px;
+}
+.card-light {
+  min-width: 30%;
+  min-height: 40px;
+  height: auto !important;
+}
+
+.text {
+  font-size: 40px;
+  font-weight: 700;
+}
